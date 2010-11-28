@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WowInterfaceClient", "WowInterfaceClient\WowInterfaceClient.csproj", "{02A00E5E-3720-4B0F-89F8-290241262A47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WoWInterfaceClientTest", "WoWInterfaceClientTest\WoWInterfaceClientTest.csproj", "{74CB0F21-254D-482E-9E61-7490C7D2A8DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02A00E5E-3720-4B0F-89F8-290241262A47}.Debug|x86.ActiveCfg = Debug|x86
+		{02A00E5E-3720-4B0F-89F8-290241262A47}.Debug|x86.Build.0 = Debug|x86
+		{02A00E5E-3720-4B0F-89F8-290241262A47}.Release|x86.ActiveCfg = Release|x86
+		{02A00E5E-3720-4B0F-89F8-290241262A47}.Release|x86.Build.0 = Release|x86
+		{74CB0F21-254D-482E-9E61-7490C7D2A8DE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{74CB0F21-254D-482E-9E61-7490C7D2A8DE}.Debug|x86.Build.0 = Debug|Any CPU
+		{74CB0F21-254D-482E-9E61-7490C7D2A8DE}.Release|x86.ActiveCfg = Release|Any CPU
+		{74CB0F21-254D-482E-9E61-7490C7D2A8DE}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = WowInterfaceClient\WowInterfaceClient.csproj
+	EndGlobalSection
+EndGlobal
